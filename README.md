@@ -49,9 +49,11 @@ After completing this tutorial, you'll understand:
 ## 📦 Dependencies
 
 
-numpy>=1.20
+numpy>=1.23
+pandas>=1.3
 matplotlib>=3.4
 scikit-learn>=1.0
+jupyter>=1.0
 
 
 ## 📖 References
